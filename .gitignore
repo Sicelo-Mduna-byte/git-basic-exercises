@@ -1,0 +1,3 @@
+ignore-me.db
+
+mkdir large-directory-that-should-be-local-only/
